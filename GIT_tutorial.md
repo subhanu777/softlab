@@ -7,5 +7,10 @@ GIT is an open source version control system.First, I have installed makebrew th
 
 In the second step I have created my account on github.com and created a new repository called "softlab". Then pushed the marked down file intothat using  _git push_ command
 
+using this steps:
+1. git remote add origin "https://github.com/subhanu777/placement_prep.git"- _the link was copied during repository creating.
+2. git branch -M main
+3. git push -u origin main - This is the final command for pushing.
+
 
 
